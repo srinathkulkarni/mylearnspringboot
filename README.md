@@ -1,0 +1,1 @@
+This is sample json example using  spring boot framework.
